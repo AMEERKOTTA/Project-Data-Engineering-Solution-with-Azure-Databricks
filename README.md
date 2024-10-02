@@ -5,3 +5,4 @@ Developed a data engineering solution utilizing Azure Databricks, Azure Data Lak
   + Delta Lake Implementation: Utilized Delta Lake for Lakehouse architecture, performing operations such as Read, Write, Update, Delete, and Merge. Implemented incremental load and managed data versioning.
   + Unity Catalog: Implemented Unity Catalog for data governance, creating and managing Metastore, configuring external data lakes, and leveraging capabilities like Data Discovery and Access Control.
   + Pipeline Management: Designed and scheduled ADF pipelines to execute Databricks notebooks, handling dependencies and monitoring for robust data processing.
+
