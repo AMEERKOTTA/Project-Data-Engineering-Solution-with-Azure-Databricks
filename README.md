@@ -7,4 +7,3 @@ Developed a data engineering solution utilizing Azure Databricks, Azure Data Lak
   + Pipeline Management: Designed and scheduled ADF pipelines to execute Databricks notebooks, handling dependencies and monitoring for robust data processing.
 
 
-
