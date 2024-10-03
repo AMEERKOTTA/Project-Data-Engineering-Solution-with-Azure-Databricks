@@ -6,3 +6,5 @@ Developed a data engineering solution utilizing Azure Databricks, Azure Data Lak
   + Unity Catalog: Implemented Unity Catalog for data governance, creating and managing Metastore, configuring external data lakes, and leveraging capabilities like Data Discovery and Access Control.
   + Pipeline Management: Designed and scheduled ADF pipelines to execute Databricks notebooks, handling dependencies and monitoring for robust data processing.
 
+
+
